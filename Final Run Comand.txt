@@ -1,0 +1,4 @@
+cd 
+venv\Scripts\activate 
+pip install pytest selenium pytest-html
+pytest -v --html=report.html --self-contained-html 
