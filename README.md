@@ -30,7 +30,7 @@ This suite is ideal for showcasing automation skills in:
 - ✅ Stable explicit waits and ad-handling logic  
 - ✅ HTML report generation using **pytest-html**  
 - ✅ GitHub Actions CI/CD integration  
-- 📸 Screenshots captured for **all executed tests (passed and failed)**  
+ 
 
 ---
 
